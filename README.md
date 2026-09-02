@@ -1,1 +1,2 @@
-# cursos-tatto-y-barberia-
+# Infinit-Stock
+Sitio web para mi emprendímiento 
