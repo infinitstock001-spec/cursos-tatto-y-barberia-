@@ -41,7 +41,7 @@ const IA_CONFIG = {
       masterclass: '',
       barberia: 'https://mpago.la/1tLfwEJ',
       tatuaje: 'https://mpago.la/2mpsZFB',
-      combo: '',
+      combo: 'https://mpago.la/1ELMs14',
       mentoria: '',
     },
   },
@@ -54,9 +54,9 @@ const IA_CONFIG = {
      ------------------------------------------------------------ */
   transferencia: {
     alias: 'facundo501.',
-    cbu: '',
-    titular: '',
-    banco: '',
+    cbu: '0000003100044827890549',
+    titular: 'Facundo Ariel Arispe',
+    banco: 'Mercado Pago',
   },
 
   /* ------------------------------------------------------------
