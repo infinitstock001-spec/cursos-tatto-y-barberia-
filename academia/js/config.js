@@ -36,11 +36,11 @@ const IA_CONFIG = {
      Los que queden vacíos siguen yendo por WhatsApp: no se rompe nada.
      ------------------------------------------------------------ */
   mercadopago: {
-    activo: false,
+    activo: true,
     links: {
       masterclass: '',
-      barberia: '',
-      tatuaje: '',
+      barberia: 'https://mpago.la/1tLfwEJ',
+      tatuaje: 'https://mpago.la/2mpsZFB',
       combo: '',
       mentoria: '',
     },
@@ -53,7 +53,7 @@ const IA_CONFIG = {
      (mejor no ofrecerla que ofrecerla con datos falsos).
      ------------------------------------------------------------ */
   transferencia: {
-    alias: '',
+    alias: 'facundo501.',
     cbu: '',
     titular: '',
     banco: '',
